@@ -2,4 +2,6 @@ first - npx create-expo-app@latest
  second - npm run reset-project 
 third - delete app-example
 
+npm run reset-project
+
  npx expo for mobile app (scan qrcode)
