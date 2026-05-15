@@ -10,3 +10,6 @@ npm run reset-project
  npx convex dev
 
  npx expo start
+
+ convex ve clerk ıcın Edit JWT template jwt template ekle
+ 

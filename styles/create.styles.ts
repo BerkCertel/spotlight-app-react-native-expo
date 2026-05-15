@@ -109,5 +109,10 @@ export const styles = StyleSheet.create({
     fontSize: 16,
     paddingTop: 8,
     minHeight: 40,
+    borderWidth: 1,
+    borderColor: COLORS.grey,
+    borderRadius: 12,
+    paddingHorizontal: 12,
+    paddingVertical: 10,
   },
 });
