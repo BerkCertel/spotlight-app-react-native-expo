@@ -59,6 +59,7 @@ export default function CreateScreen() {
           httpMethod: "POST",
           uploadType: FileSystem.FileSystemUploadType.BINARY_CONTENT,
           mimeType: "image/jpeg",
+          // headers: { "Content-Type": "image/jpeg" },
         },
       );
 
